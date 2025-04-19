@@ -1,0 +1,13 @@
+## Para empezar el proyecto realice lo siguiente
+
+
+```bash
+git clone <link del repositorio>
+```
+
+### Una vez clonado el trabajo, abrir la terminal y descargar
+
+```bash
+pip install numpy
+```
+
